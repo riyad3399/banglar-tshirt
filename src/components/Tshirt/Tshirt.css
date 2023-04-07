@@ -1,0 +1,17 @@
+.t-shirt{
+    border: 1px solid lightcoral;
+    border-radius: 15px;
+    padding: 10px;
+    text-align: center;
+}
+.t-shirt img{
+    height: 250px;
+    border-radius: 15px;
+}
+
+.btn-buy-now{
+    background-color: lightskyblue;
+    padding: 10px;
+    border-radius: 4px;
+    color: darkred;
+}

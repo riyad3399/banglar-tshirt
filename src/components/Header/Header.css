@@ -2,4 +2,9 @@ nav a{
     margin-right: 25px;
     font-weight: 600;
     font-size: large;
+    text-decoration: none;
+}
+nav{
+   background-color: rgb(177, 204, 195);
+    padding: 20px;
 }
