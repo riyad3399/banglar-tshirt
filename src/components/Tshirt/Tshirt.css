@@ -10,8 +10,8 @@
 }
 
 .btn-buy-now{
-    background-color: lightskyblue;
+  background-color: rgb(218, 159, 50);
     padding: 10px;
     border-radius: 4px;
-    color: darkred;
+    color: white;
 }

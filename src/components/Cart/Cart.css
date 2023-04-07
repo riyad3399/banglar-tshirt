@@ -1,0 +1,6 @@
+.order-container{
+    border: 1px solid blue;
+    border-radius: 10px;
+    position: sticky;
+    top: 2px;
+}
