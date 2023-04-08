@@ -4,3 +4,7 @@
     position: sticky;
     top: 2px;
 }
+
+.order-container h2{
+    color: orange;
+}
